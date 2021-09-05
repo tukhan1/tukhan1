@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tukhan1
+- 👀 I’m interested in ios dev
+- 🌱 I’m currently learning Segues
+- 💞️ I’m looking to collaborate on with all peaple
