@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tukhan1
 - 👀 I’m interested in ios dev
-- 🌱 I’m currently learning CollectionView
+- 🌱 I’m currently building Xylophone on ios
