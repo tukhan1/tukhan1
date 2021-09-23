@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tukhan1
 - 👀 I’m interested in ios dev
-- 🌱 I’m currently building "Tipsy" app on ios
+- 🌱 I’m currently building "Wather" app on ios and practice with networking
