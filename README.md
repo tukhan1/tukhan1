@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tukhan1
 - 👀 I’m interested in ios dev
-- 🌱 I’m currently practice with CoreData
+- 🌱 I’m currently practice with Realm
